@@ -1,4 +1,5 @@
 # Qubes dom0 Script to Update All Templates One‑by‑One
+Attention: just work for Debian Templates, do not work for Fedora
 
 ## What it does
 - Updates every active TemplateVM **one at a time**
