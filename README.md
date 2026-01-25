@@ -20,3 +20,8 @@ tar -xvf /home/user/scripts.tar
 chmod +x ~/scripts/*
 cd ~/scripts
 sudo cp -r updater /bin
+now at any place of a terminal dom0 you can type updater, and the script update all templates one by one!
+
+### Doe monero para nos ajudar: (donate XMR)
+
+    87JGuuwXzoMGwQAcSD7cvS7D7iacPpN2f5bVqETbUvCgdEmrPZa12gh5DSiKKRgdU7c5n5x1UvZLj8PQ7AAJSso5CQxgjak
