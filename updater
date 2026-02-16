@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ------------------------------------------------------------
-#updater2.sh
+#updater.sh
 # update and upgrade all template one per one
 # ------------------------------------------------------------
 
